@@ -46,7 +46,3 @@
 </div>
 
 ###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bluerabbit14.bluerabbit14&right_color=darkred"  />
-
-###
