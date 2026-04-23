@@ -3,16 +3,16 @@
 📍 **Noida ↔ Agra** | 🤖 **Mobile App Developer** 
 
 
-![.NET MAUI](https://img.shields.io/badge/-maui-F7DF1E?style=flat-square&logo=maui&logoColor=magenta)
-![Flutter](https://img.shields.io/badge/-flutter-F7DF1E?style=flat-square&logo=maui&logoColor=magenta)
-![ASP .NET WEB API](https://img.shields.io/badge/-asp.netwebapi-F7DF1E?style=flat-square&logo=maui&logoColor=magenta)
-![Firebase](https://img.shields.io/badge/-firebase-F7DF1E?style=flat-square&logo=maui&logoColor=magenta)
-![Docker](https://img.shields.io/badge/-docker-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![.NET MAUI](https://img.shields.io/badge/-.NET MAUI-F7DF1E?style=flat-square&logo=maui&logoColor=magenta)
+![Flutter](https://img.shields.io/badge/-Flutter-F7DF1E?style=flat-square&logo=maui&logoColor=magenta)
+![ASP .NET WEB API](https://img.shields.io/badge/-ASP .NET Web API-F7DF1E?style=flat-square&logo=maui&logoColor=magenta)
+![Firebase](https://img.shields.io/badge/-Firebase-F7DF1E?style=flat-square&logo=maui&logoColor=magenta)
+![Docker](https://img.shields.io/badge/-Docker-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-c#-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-java-F7DF1E?style=flat-square&logo=maui&logoColor=magenta)
-![React.js](https://img.shields.io/badge/-react.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-next.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C#-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=maui&logoColor=magenta)
+![React.js](https://img.shields.io/badge/-React.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## Current Projects
 
