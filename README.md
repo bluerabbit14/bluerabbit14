@@ -17,7 +17,7 @@
 ## Current Projects
 
 - 🏡 **[StayEasy](https://stay-easy-airbnb.vercel.app)** - platform that connects travelers with property hosts, enabling users to discover, book, and pay for accommodations seamlessly while allowing hosts to list properties, manage bookings, and earn income through the platform.
-- 🩻 **[Project-X](https://project-x-nine-alpha.vercel.app/)** -portfolio using Next.js to showcase my projects, skills, and experience as a developer 
+- 🩻 **[Abbas.dev](https://project-x-nine-alpha.vercel.app/)** -portfolio using Next.js to showcase my projects, skills, and experience as a developer 
 
 
 
