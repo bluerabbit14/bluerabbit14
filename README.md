@@ -12,7 +12,7 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NETCORE-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-2496ED?style=flat-square&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 
 ## GitHub Activity
