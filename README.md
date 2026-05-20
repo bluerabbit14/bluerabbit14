@@ -22,6 +22,3 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/bluerabbit14)
