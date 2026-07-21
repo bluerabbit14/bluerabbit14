@@ -21,8 +21,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" />
 </p>
 
-- 💬 Ask me about: .NET, Mobile App Developement, Architecture, Microservices, Performance, DevOps, DDD  
-- 🦸🏻 I’m looking to collaborate on: .NET projects  
+- 💬 Ask me about: .NET & ASP.NET Core, Mobile Development (Flutter, .NET MAUI), Next.js/React, Microservices, System Design, Performance Optimization
+- 🦸🏻 I'm looking to collaborate on: .NET and cross-platform mobile projects
 
 <br/>
 
