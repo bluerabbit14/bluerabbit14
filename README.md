@@ -6,9 +6,8 @@
   </a>
  <a href="https://leetcode.com/u/asifabbas14/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
-         alt="LeetCode"
-        >
-</a>
+         alt="LeetCode" width="50" height="50">
+ </a>
 </p>
 
 <p align="center"><strong>Professional skills</strong></p>
