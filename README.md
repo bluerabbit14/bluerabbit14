@@ -2,11 +2,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asifabbas14/" target="_blank">
-    <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" alt="LinkedIn" width="50" height="50" />
+    <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" alt="LinkedIn" width="60" height="60" />
   </a>
  <a href="https://leetcode.com/u/asifabbas14/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
-         alt="LeetCode" width="50" height="50">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" alt="LeetCode" width="60" height="60">
  </a>
 </p>
 
