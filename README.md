@@ -4,9 +4,9 @@
   <a href="https://www.linkedin.com/in/asifabbas14/" target="_blank">
     <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://leetcode.com/u/asifabbas14/" target="_blank">
     <img src="https://img.icons8.com/fluent/60/000000/leetcode.png" />
-  </a> 
+</a>
 </p>
 
 <p align="center"><strong>Professional skills</strong></p>
