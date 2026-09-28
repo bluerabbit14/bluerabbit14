@@ -19,7 +19,7 @@
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="60" alt=".NET" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" alt="Spring" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" width="60" alt="Spring Boot" />
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/spring-boot-original.svg" width="60" alt="Spring Boot" />  -->
 
   <!-- Frontend / Mobile -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60" alt="Flutter" />
